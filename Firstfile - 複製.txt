@@ -1,5 +1,5 @@
 Hello Word!
 
-�����Ĥ@�� �мg�ܧ�K�n
+紀錄第一行 請寫變更摘要
 
-��L��g���e��K�bGitHub�W���F�ѦU��commit
+其他行寫內容方便在GitHub上面了解各種commit
