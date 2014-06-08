@@ -1,0 +1,5 @@
+Hello Word!
+
+紀錄第一行 請寫變更摘要
+
+其他行寫內容方便在GitHub上面了解各種commit
